@@ -1,0 +1,14 @@
+cv2
+numpy
+time
+requests
+pyzbar 
+os 
+openai 
+speech_recognition
+gTTS 
+IPython.display 
+pydub 
+tempfile 
+threading 
+face_recognition
